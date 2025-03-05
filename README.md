@@ -13,10 +13,7 @@
     https://github.com/xdxuyang/Deep-Spectral-Clustering-using-Dual-Autoencoder-Network
 (7) SDCN:
     https://github.com/bdy9527/SDCN
-
-
 (8) DTC:
-
-
+    https://github.com/FlorentF9/DeepTemporalClustering
 (9) R-Clustering:
     https://github.com/jorgemarcoes/R-Clustering
