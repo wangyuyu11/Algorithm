@@ -11,4 +11,11 @@
     https://github.com/piiswrong/dec
 (6) DSC:
     https://github.com/xdxuyang/Deep-Spectral-Clustering-using-Dual-Autoencoder-Network
-(7) 
+(7) SDCN:
+
+
+(8) DTC:
+
+
+(9) R-Clustering:
+    https://github.com/jorgemarcoes/R-Clustering
